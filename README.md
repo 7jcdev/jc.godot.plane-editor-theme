@@ -1,10 +1,10 @@
 # Godot Plane editor theme.
-Plane and minimalistic editor theme for godot 3.2x
+Plane and minimalistic editor theme for godot 3.x
 
 --------------------------------------------------
 
 ## Status.
-> Work In Progress.
+> 1.0.0
 
 --------------------------------------------------
 
