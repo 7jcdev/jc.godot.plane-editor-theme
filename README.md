@@ -4,7 +4,7 @@ Plane and minimalistic editor theme for godot 3.x
 --------------------------------------------------
 
 ## Status.
-> 1.0.0
+> 1.1
 
 --------------------------------------------------
 
@@ -17,6 +17,7 @@ Plane and minimalistic editor theme for godot 3.x
 
 ## Pics.
 
-- Dark Default:
+- Steel Core:
+![godot-sc-theme](https://user-images.githubusercontent.com/75779389/180890827-e35fa3a2-4199-44a0-b289-98bfc0165f3d.png)
 
-<img src="https://raw.githubusercontent.com/7Cuellar/jc.godot.img-repo/master/DarkPlaneEditorTheme.jpg">
+--------------------------------------------------
